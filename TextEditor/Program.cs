@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Balta.DotNet.Projects.TextEditor
 {
@@ -29,7 +30,7 @@ namespace Balta.DotNet.Projects.TextEditor
                     Abrir();
                     break;
                 case 2:
-                    Editar();
+                    Criar();
                     break;
                 case 0:
                     System.Environment.Exit(0);
@@ -42,12 +43,51 @@ namespace Balta.DotNet.Projects.TextEditor
 
         static void Abrir()
         {
+            Console.Clear();
+            Console.Write("Qual o caminho do arquivo: ");
+            string path = Console.ReadLine();
+
+            using (var file = new StreamReader(path))
+            {
+                string text = file.ReadToEnd();
+                Console.WriteLine(text);
+            }
             
+            Console.ReadLine();
+            Menu();
         }
 
-        static void Editar()
+        static void Criar()
         {
+            Console.Clear();
+            Console.WriteLine("------------");
+            Console.WriteLine("Digite seu texto (ESC para sair): ");
+            Console.WriteLine("------------");
+            string text = "";
+
+            do
+            {
+                text += Console.ReadLine();
+                text += Environment.NewLine;
+            } while (Console.ReadKey().Key != ConsoleKey.Escape);
             
+            Salvar(text);
+        }
+
+        static void Salvar(string text)
+        {
+            Console.Clear();
+            Console.Write("Qual caminho deseja salvar o arquivo: ");
+            var path = Console.ReadLine();
+
+            using (var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            }
+            
+            Console.WriteLine($"Arquivo {path} salvo com sucesso");
+            Console.ReadLine();
+            Menu();
         }
     }
 }
