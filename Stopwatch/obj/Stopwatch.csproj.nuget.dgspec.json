@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Stopwatch\\Stopwatch.csproj": {}
+    "C:\\dev\\Balta.DotNet.Projects\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Stopwatch\\Stopwatch.csproj": {
+    "C:\\dev\\Balta.DotNet.Projects\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "C:\\dev\\Balta.DotNet.Projects\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "C:\\dev\\Balta.DotNet.Projects\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Stopwatch\\obj\\",
+        "outputPath": "C:\\dev\\Balta.DotNet.Projects\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config"
