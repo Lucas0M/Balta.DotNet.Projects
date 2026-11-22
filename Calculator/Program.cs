@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Balta.Dotnet.Projects.Calculator
+namespace Balta.DotNet.Projects.Calculator
 {
     class Program
     {

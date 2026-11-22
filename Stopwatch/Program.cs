@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Balta.Dotnet.Projects.Stopwatch
+namespace Balta.DotNet.Projects.Stopwatch
 {
     class Program
     {

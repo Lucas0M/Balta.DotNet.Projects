@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Balta.Dotnet.Projects.MyApp;
+namespace Balta.DotNet.Projects.MyApp;
 
 class Program
 {

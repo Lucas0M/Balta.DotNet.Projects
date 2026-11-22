@@ -1,0 +1,17 @@
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.exe
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.deps.json
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.runtimeconfig.json
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.runtimeconfig.dev.json
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.dll
+C:\dev\Balta.DotNet.Projects\TextEditor\bin\Debug\net11.0\TextEditor.pdb
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.AssemblyInfoInputs.cache
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.AssemblyInfo.cs
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.sourcelink.json
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.dll
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\refint\TextEditor.dll
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.pdb
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.genruntimeconfig.cache
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\ref\TextEditor.dll
+C:\dev\Balta.DotNet.Projects\TextEditor\obj\Debug\net11.0\TextEditor.csproj.Up2Date
