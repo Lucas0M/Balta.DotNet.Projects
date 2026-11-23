@@ -8,7 +8,7 @@
     "net11.0": []
   },
   "packageFolders": {
-    "C:\\Users\\conta\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas Curia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\dev\\Balta.DotNet.Projects\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
       "projectPath": "C:\\dev\\Balta.DotNet.Projects\\MyApp\\MyApp.csproj",
-      "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Lucas Curia\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\Balta.DotNet.Projects\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas Curia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net11.0"
